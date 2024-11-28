@@ -18,6 +18,6 @@ const IconTwitterX = ({ size = 24, className }: IconProps) => (
 
 export {
   IconTwitterX,
-  IconTikTok,
+
 };
 
